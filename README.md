@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋🏻, I'm Mohini Sahoo</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms; width:200px; height:200px" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg">
+<img align="right" style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms; width:270px; height:270px" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg">
 
 - 📫 How to reach me **mohinisahoo395@gmail.com**
 
