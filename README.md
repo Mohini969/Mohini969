@@ -99,4 +99,6 @@ A Passionate Full Stack Developer from India 🇮🇳
 
 ## ⚡ Fun Fact
 
-> I love building projects, solving coding problems, dancing, and creating creative videos. 💙
+> ## ⚡ Fun Fact
+
+> When I'm not coding, you'll probably find me dancing, singing, or capturing life's memorable moments.
