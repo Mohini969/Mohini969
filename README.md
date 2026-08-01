@@ -7,7 +7,13 @@ A Passionate Full Stack Developer from India 🇮🇳
 </h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=mohini969&label=Profile%20Views&color=0e75b6&style=flat" alt="mohini969" />
+
+  <img src="https://komarev.com/ghpvc/?username=mohini969&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
+
+  <img src="https://img.shields.io/github/followers/mohini969?label=Followers&style=for-the-badge&color=ff69b4&logo=github" />
+
+  <img src="https://img.shields.io/github/stars/mohini969?affiliations=OWNER&label=Stars&style=for-the-badge&color=ff69b4&logo=github" />
+
 </p>
 
 <img align="right" alt="Coding" width="350" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg"/>
