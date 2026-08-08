@@ -31,16 +31,20 @@ A Passionate Full Stack Developer from India 🇮🇳
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/mohini%20sahoo" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
+  <a href="https://www.linkedin.com/in/mohini-sahoo-64924933b/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         alt="LinkedIn"
+         height="30"
+         width="40" />
+  </a>
 
-<a href="https://instagram.com/khu_si__khusi" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
-</a>
+  <a href="https://www.instagram.com/khu_si__khusi/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+         alt="Instagram"
+         height="30"
+         width="40" />
+  </a>
 </p>
-
----
 
 ## 💻 Tech Stack
 
