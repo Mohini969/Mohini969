@@ -69,34 +69,6 @@ A Passionate Full Stack Developer from India 🇮🇳
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mohini969&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohini969&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohini969&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mohini969&theme=tokyonight&column=7&margin-w=10&margin-h=10"/>
-
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
