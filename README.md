@@ -46,6 +46,13 @@ A Passionate Full Stack Developer from India 🇮🇳
     />
   </a>
 
+  <a href="https://mohini-portfolio-red.vercel.app/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Personal Portfolio"
+    />
+  </a>
+
 </p>
 💻 Tech Stack
 
